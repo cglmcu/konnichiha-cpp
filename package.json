@@ -1,0 +1,25 @@
+{
+  "name": "@rokidapp/konnichiha",
+  "version": "1.0.0",
+  "description": "hello world app for rokidos",
+  "main": "app",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/Rokid/rokidos-konnichiha-cpp"
+  },
+  "keywords": [
+    "cpp",
+    "bindings",
+    "rokid"
+  ],
+  "author": "Yazhong Liu <yazhong.liu@rokid.com>",
+  "license": "MIT",
+  "metadata": {
+    "type": "cut",
+    "skills": [
+      "RBB469857DC043048807C2951EF021FB"
+    ],
+    "native": true
+  }
+}
