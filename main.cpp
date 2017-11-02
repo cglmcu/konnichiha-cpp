@@ -1,5 +1,5 @@
 #include <ams/rknative.h>
-#include <rokid/tts/tts_client.h>
+#include <tts/tts_client.h>
 
 /**
  * @class ExampleApp
